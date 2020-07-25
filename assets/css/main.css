@@ -1827,6 +1827,13 @@ input, select, textarea {
 			box-shadow: 0 0 10px #3FA037,
 			0 0 20px #3FA037;
 		}
+		#main article .card .card-body .firebase_image{
+
+			font-size: 2rem;
+			width: 1em;
+			height: 1em;
+			border: none;
+		}
 
 	
 		.fa-js-square{
