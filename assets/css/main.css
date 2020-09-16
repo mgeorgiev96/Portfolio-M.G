@@ -1928,3 +1928,20 @@ input, select, textarea {
 			}
 
 		}
+
+		#main article .card .card-body .jquery_image{
+			color: white;
+			background-color: white;
+			font-size: 2rem;
+			width: 1em;
+			height: 1em;
+			border: none;
+			box-shadow: 0 0 15px white;
+		}
+		.fa-python{
+			color: #4B8BBE;
+			text-shadow: 0 0 10px #4B8BBE,
+			0 0 50px #4B8BBE,
+			0 0 75px #4B8BBE,
+			0 0 250px #4B8BBE;
+		}
