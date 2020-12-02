@@ -1854,6 +1854,13 @@ input, select, textarea {
 			0 0 75px #68A063,
 			0 0 250px #68A063;
 		}
+		.fa-vuejs{
+			color: #41B883;
+			text-shadow: 0 0 10px #41B883,
+			0 0 50px #41B883,
+			0 0 75px #41B883,
+			0 0 250px #41B883;
+		}
 
 		#main article .card .card-body img{
 			width: 100%;
